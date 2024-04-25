@@ -1,0 +1,74 @@
+.elementor-kit-8{--e-global-color-primary:#FFFFFF;--e-global-color-secondary:#C19696;--e-global-color-text:#FFFFFF;--e-global-color-accent:#B87678;--e-global-color-17683e2:#F5F5F5;--e-global-color-9bb6c12:#A06B39;--e-global-color-0641f51:#CCAF9B;--e-global-color-4c7fcfa:#873C1E;--e-global-color-019ac0f:#312921;--e-global-color-65d8876:#252525;--e-global-color-af80d07:#BCA263;--e-global-color-69a0ee5:#131313;--e-global-color-f3b6877:#AB7C63;--e-global-typography-primary-font-family:"Moneta";--e-global-typography-primary-font-size:39px;--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Montserrat";--e-global-typography-text-font-size:17px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-size:17px;--e-global-typography-accent-font-weight:500;--e-global-typography-142ce58-font-family:"Montserrat";--e-global-typography-142ce58-font-size:2.5em;--e-global-typography-142ce58-line-height:1.3em;--e-global-typography-ab5a973-font-family:"Montserrat";--e-global-typography-ab5a973-font-size:1em;--e-global-typography-ab5a973-font-weight:400;--e-global-typography-f303c27-font-family:"Moneta";--e-global-typography-f303c27-font-size:2.5em;--e-global-typography-f303c27-font-weight:700;--e-global-typography-f303c27-line-height:1.2em;--e-global-typography-003058a-font-family:"Montserrat";--e-global-typography-003058a-font-size:1em;--e-global-typography-003058a-font-weight:400;--e-global-typography-003058a-line-height:1.2em;--e-global-typography-ab53af5-font-family:"Moneta";--e-global-typography-ab53af5-font-size:3em;--e-global-typography-ab53af5-font-weight:700;--e-global-typography-ab53af5-line-height:1.3em;--e-global-typography-a92eddf-font-family:"Moneta";--e-global-typography-a92eddf-font-size:2.5em;--e-global-typography-a92eddf-font-weight:700;--e-global-typography-a92eddf-line-height:1.3em;--e-global-typography-a1ab2eb-font-family:"Montserrat";--e-global-typography-a1ab2eb-font-size:1.25em;--e-global-typography-a1ab2eb-font-weight:500;--e-global-typography-a1ab2eb-line-height:1.2em;--e-global-typography-2876196-font-family:"Montserrat";--e-global-typography-2876196-font-size:1em;--e-global-typography-2876196-font-weight:500;--e-global-typography-2876196-line-height:1.3em;font-family:"Montserrat", Sans-serif;}.elementor-kit-8 a{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h1{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h2{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h3{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h4{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h5{font-family:"Montserrat", Sans-serif;}.elementor-kit-8 h6{font-family:"Montserrat", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-8 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Moneta';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Moneta-Regular.eot');
+	src: url('../fonts/Moneta-Regular.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Moneta-Regular.woff2') format('woff2'),
+		url('../fonts/Moneta-Regular.woff') format('woff'),
+		url('../fonts/Moneta-Regular.ttf') format('truetype'),
+		url('../images/Moneta-Regular.svg#Moneta') format('svg');
+}
+@font-face {
+	font-family: 'Moneta';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../fonts/Moneta-Bold.eot');
+	src: url('../fonts/Moneta-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Moneta-Bold.woff2') format('woff2'),
+		url('../fonts/Moneta-Bold.woff') format('woff'),
+		url('../fonts/Moneta-Bold.ttf') format('truetype'),
+		url('../images/Moneta-Bold.svg#Moneta') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Regular.eot');
+	src: url('../fonts/Montserrat-Regular.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+		url('../fonts/Montserrat-Regular.woff') format('woff'),
+		url('../fonts/Montserrat-Regular.ttf') format('truetype'),
+		url('../images/Montserrat-Regular.svg#Montserrat') format('svg');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Bold.eot');
+	src: url('../fonts/Montserrat-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Bold.woff2') format('woff2'),
+		url('../fonts/Montserrat-Bold.woff') format('woff'),
+		url('../fonts/Montserrat-Bold.ttf') format('truetype'),
+		url('../images/Montserrat-Bold.svg#Montserrat') format('svg');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Light.eot');
+	src: url('../fonts/Montserrat-Light.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Light.woff2') format('woff2'),
+		url('../fonts/Montserrat-Light.woff') format('woff'),
+		url('../fonts/Montserrat-Light.ttf') format('truetype'),
+		url('../images/Montserrat-Light.svg#Montserrat') format('svg');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Medium.eot');
+	src: url('../fonts/Montserrat-Medium.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Medium.woff2') format('woff2'),
+		url('../fonts/Montserrat-Medium.woff') format('woff'),
+		url('../fonts/Montserrat-Medium.ttf') format('truetype'),
+		url('../images/Montserrat-Medium.svg#Montserrat') format('svg');
+}
+/* End Custom Fonts CSS */
